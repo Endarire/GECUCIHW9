@@ -1,0 +1,6 @@
+node_modules/
+Solutions/
+Instructions/
+OLD/
+package-lock.json
+.git/
